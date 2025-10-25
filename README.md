@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+### NAME: VIJAYAKUMAR S
+### REG NO: 212224040359
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,6 +29,7 @@ This commands includes
 <BR>
 
 ## Output
+[cn 4 cmds.pdf](https://github.com/user-attachments/files/23140881/cn.4.cmds.pdf)
 
 ## Result
 Thus Execution of Network commands Performed 
